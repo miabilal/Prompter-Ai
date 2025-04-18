@@ -1,4 +1,4 @@
-# Prompter - AI-Powered Conversation App
+# Prompter - AI-Powered Prompt Generator App.
 
 <div align="center">
   <img src="assets/images/logo.png" alt="Prompter Logo" width="200"/>
@@ -11,14 +11,14 @@
 
 ## 📱 Overview
 
-Prompter is a modern, AI-powered conversation app built with Flutter and Google's Gemini API. It features a sleek dark theme with tech-inspired aesthetics, providing users with an intuitive interface for engaging in AI-powered conversations.
+Prompter isn’t just an AI chat — it’s your personal brainstorming lab. Whether you're using AI for writing, coding, designing, marketing, or research, this app crafts precise and optimized prompts to help you get the best possible results from your favorite AI tools..
 
 ## ✨ Features
 
 - 🎨 Modern dark theme with tech-inspired aesthetics
 - 🚀 Smooth animations and transitions
 - 📱 Responsive design for all screen sizes
-- 🤖 Powered by Google's Gemini AI
+- 🤖 Powered by LLM(large Language Model)
 - 💬 Real-time conversation with AI
 - 📝 Clean and intuitive user interface
 - 🔄 Loading indicators and error handling
@@ -27,11 +27,11 @@ Prompter is a modern, AI-powered conversation app built with Flutter and Google'
 ## 🛠️ Technologies Used
 
 - [Flutter](https://flutter.dev/) - UI framework
-- [Google Gemini API](https://ai.google.dev/) - AI conversation engine
+- LLM
 - [flutter_svg](https://pub.dev/packages/flutter_svg) - SVG rendering
 - [google_fonts](https://pub.dev/packages/google_fonts) - Custom fonts
 - [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator) - Page indicators
-- [google_generative_ai](https://pub.dev/packages/google_generative_ai) - Gemini API client
+
 
 ## 🚀 Getting Started
 
@@ -39,7 +39,7 @@ Prompter is a modern, AI-powered conversation app built with Flutter and Google'
 
 - Flutter SDK (3.19.0 or higher)
 - Dart SDK (3.6.1 or higher)
-- Google Gemini API key
+
 
 ### Installation
 
