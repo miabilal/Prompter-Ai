@@ -108,6 +108,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - https://www.linkedin.com/in/miabilal/
 
-Project Link: [https://github.com/yourusername/prompter](https://github.com/yourusername/prompter) 
